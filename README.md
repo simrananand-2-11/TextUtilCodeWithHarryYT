@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Created this app using [CodeWithHarry React Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt) as reference.
+
+Playlist has code in React 17 version. Thus, followed it.
+
 ## Available Scripts
 
 In the project directory, you can run:
